@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Srihari Ganta - Business Analyst & Product Manager</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            color: #4CAF50;
+        }
+
+        .contact {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .contact a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            background: #f0f0f0;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Srihari Ganta - Business Analyst & Product Manager</h1>
+    </header>
+
+    <div class="container">
+        <section class="contact">
+            <p>Toronto, ON | <a href="mailto:gsrihari.ba@gmail.com">gsrihari.ba@gmail.com</a> | 705-988-0883 | <a href="https://www.linkedin.com/in/srihari" target="_blank">LinkedIn Profile</a></p>
+        </section>
+
+        <section class="summary">
+            <h2>Professional Summary</h2>
+            <p>I am a driven and detail-oriented Associate Product Manager and Business Analyst with over 4 years of experience connecting data-driven insights with business strategy. I excel at transforming complex data into actionable strategies, leading product roadmaps, and enhancing team collaboration. Skilled in tools like SQL, Python, Power BI, and Tableau, I thrive in fast-paced environments, driving impactful results while focusing on building solutions that foster user engagement.</p>
+        </section>
+
+        <section class="experience">
+            <h2>Professional Experience</h2>
+
+            <h3>Rogers Communications | Business Analyst & Operations Analyst</h3>
+            <p><em>Toronto, ON | Nov 2022 – Present</em></p>
+            <ul>
+                <li>Redesigned TSC's marketplace platform, increasing user retention by 15% and improving satisfaction scores by 10%.</li>
+                <li>Maintained product backlogs, reducing development cycle time by 20% and improving sprint completion rates by 25%.</li>
+                <li>Developed Power BI dashboards, improving data transparency and reducing decision timelines by 20%.</li>
+            </ul>
+
+            <h3>BMO Financial Group | Business Analyst</h3>
+            <p><em>Toronto, ON | Mar 2022 – Sep 2022</em></p>
+            <ul>
+                <li>Led transition to automated reporting, reducing manual workload by 40%.</li>
+                <li>Achieved 98% data accuracy rate, cutting post-deployment adjustments by 15%.</li>
+                <li>Applied Agile methodologies, ensuring on-time project delivery.</li>
+            </ul>
+
+            <h3>Capgemini | Business Analyst / IT Consultant</h3>
+            <p><em>Toronto, ON | May 2021 – Feb 2022</em></p>
+            <ul>
+                <li>Automated IT operations, reducing manual errors by 35%.</li>
+                <li>Applied Agile practices for project coordination, achieving a 95% on-time delivery rate.</li>
+            </ul>
+        </section>
+
+        <section class="projects">
+            <h2>Projects</h2>
+            <h3>MealMuse Social | AI-driven Recipe Recommendation Platform</h3>
+            <p><em>Personal Project | Ongoing</em></p>
+            <ul>
+                <li>Conceptualized and built a recipe recommendation platform tailored to dietary preferences, increasing user engagement by 25%.</li>
+                <li>Leveraged Python for data analysis, improving recommendation accuracy by 20%.</li>
+            </ul>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Product Management:</strong> Defining product roadmaps, prioritizing features, managing product backlogs.</li>
+                <li><strong>Data Analysis:</strong> Handling large datasets, interpreting data.</li>
+                <li><strong>Agile & Scrum:</strong> Leading Agile teams, coordinating sprints.</li>
+                <li><strong>Technical Proficiency:</strong> SQL, Python, Power BI, Tableau.</li>
+                <li><strong>Stakeholder Management:</strong> Gathering requirements, aligning strategies.</li>
+                <li><strong>Project Leadership:</strong> Ensuring high-quality, timely delivery.</li>
+                <li><strong>Data Visualization:</strong> Developing interactive dashboards.</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>Business Analytics and Project Management</strong><br>Cambrian College of Applied Arts and Technology, Sudbury, ON - Graduated: 2021</p>
+            <p><strong>Bachelor of Technology, Mechanical Engineering</strong><br>Jawaharlal Nehru Technological University, Hyderabad, India - Graduated: 2018</p>
+        </section>
+
+        <section class="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Google Data Analytics Professional Certificate</li>
+                <li>IBM Product Management Certificate</li>
+            </ul>
+        </section>
+    </div>
+</body>
+
+</html>
